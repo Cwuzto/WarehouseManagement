@@ -43,6 +43,10 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DataProvider.cs" />
+    <Compile Include="DSYCDatHgDL.cs" />
+    <Compile Include="DSYCNhapHangDL.cs" />
+    <Compile Include="LoaiNVDL.cs" />
+    <Compile Include="NhanVienDL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
